@@ -1,5 +1,4 @@
 # GDP-Analysis-of-India
-Projects and Case Studies
 
 NITI Aayog: Background
 
